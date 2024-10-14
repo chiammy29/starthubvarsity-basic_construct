@@ -1,6 +1,6 @@
-def amaka_ibe_func():
+def amaka_ibe():
     # this is my native name
-    name = "amaka_ibe"
+    name = "Amaka ibe"
     # this is not my real age
     age = 20
     # i'm definitely a female
@@ -10,5 +10,5 @@ def amaka_ibe_func():
     print(name,age,is_male,height)
 
     
-    amaka_ibe_func()
+    amaka_ibe()
     
